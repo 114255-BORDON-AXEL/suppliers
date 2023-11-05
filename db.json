@@ -1,0 +1,20 @@
+{
+  "suppliers": [
+    {
+      "supplier_id": 1,
+      "fantasy_name": "Clorox Argentina S A"
+    },
+    {
+      "supplier_id": 2,
+      "fantasy_name": "Industrias Iberia S.A.I.C"
+    },
+    {
+      "supplier_id": 3,
+      "fantasy_name": "Kimberly-Clark Argentina Sa"
+    },
+    {
+      "supplier_id": 4,
+      "fantasy_name": "Mapa Virulana S.A.I.C."
+    }
+  ]
+}
